@@ -1,0 +1,57 @@
+# executable, input, output, points
+./pagefault     given-tests/level1.txt,,given-tests/level1-exp-f-0.txt, 1
+./pagefault -f 1 given-tests/level1.txt,,given-tests/level1-exp-f-1.txt, 1
+./pagefault -f 2 given-tests/level1.txt,,given-tests/level1-exp-f-2.txt, 1
+./pagefault -f 3 given-tests/level1.txt,,given-tests/level1-exp-f-3.txt, 1
+./pagefault -f 4 given-tests/level1.txt,,given-tests/level1-exp-f-4.txt, 1
+./pagefault -f 5 given-tests/level1.txt,,given-tests/level1-exp-f-5.txt, 1
+./pagefault -f 6 given-tests/level1.txt,,given-tests/level1-exp-f-6.txt, 1
+./pagefault -f 7 given-tests/level1.txt,,given-tests/level1-exp-f-7.txt, 1
+./pagefault     given-tests/level2.txt,,given-tests/level2-exp-f-0.txt, 1
+./pagefault -f 1 given-tests/level2.txt,,given-tests/level2-exp-f-1.txt, 1
+./pagefault -f 2 given-tests/level2.txt,,given-tests/level2-exp-f-2.txt, 1
+./pagefault -f 3 given-tests/level2.txt,,given-tests/level2-exp-f-3.txt, 1
+./pagefault -f 4 given-tests/level2.txt,,given-tests/level2-exp-f-4.txt, 1
+./pagefault -f 5 given-tests/level2.txt,,given-tests/level2-exp-f-5.txt, 1
+./pagefault -f 6 given-tests/level2.txt,,given-tests/level2-exp-f-6.txt, 1
+./pagefault -f 7 given-tests/level2.txt,,given-tests/level2-exp-f-7.txt, 1
+./pagefault     given-tests/level3.txt,,given-tests/level3-exp-f-0.txt, 1
+./pagefault -f 1 given-tests/level3.txt,,given-tests/level3-exp-f-1.txt, 1
+./pagefault -f 2 given-tests/level3.txt,,given-tests/level3-exp-f-2.txt, 1
+./pagefault -f 3 given-tests/level3.txt,,given-tests/level3-exp-f-3.txt, 1
+./pagefault -f 4 given-tests/level3.txt,,given-tests/level3-exp-f-4.txt, 1
+./pagefault -f 5 given-tests/level3.txt,,given-tests/level3-exp-f-5.txt, 1
+./pagefault -f 6 given-tests/level3.txt,,given-tests/level3-exp-f-6.txt, 1
+./pagefault -f 7 given-tests/level3.txt,,given-tests/level3-exp-f-7.txt, 1
+./pagefault     given-tests/level4.txt,,given-tests/level4-exp-f-0.txt, 1
+./pagefault -f 1 given-tests/level4.txt,,given-tests/level4-exp-f-1.txt, 1
+./pagefault -f 2 given-tests/level4.txt,,given-tests/level4-exp-f-2.txt, 1
+./pagefault -f 3 given-tests/level4.txt,,given-tests/level4-exp-f-3.txt, 1
+./pagefault -f 4 given-tests/level4.txt,,given-tests/level4-exp-f-4.txt, 1
+./pagefault -f 5 given-tests/level4.txt,,given-tests/level4-exp-f-5.txt, 1
+./pagefault -f 6 given-tests/level4.txt,,given-tests/level4-exp-f-6.txt, 1
+./pagefault -f 7 given-tests/level4.txt,,given-tests/level4-exp-f-7.txt, 1
+./pagefault     given-tests/level5.txt,,given-tests/level5-exp-f-0.txt, 1
+./pagefault -f 1 given-tests/level5.txt,,given-tests/level5-exp-f-1.txt, 1
+./pagefault -f 2 given-tests/level5.txt,,given-tests/level5-exp-f-2.txt, 1
+./pagefault -f 3 given-tests/level5.txt,,given-tests/level5-exp-f-3.txt, 1
+./pagefault -f 4 given-tests/level5.txt,,given-tests/level5-exp-f-4.txt, 1
+./pagefault -f 5 given-tests/level5.txt,,given-tests/level5-exp-f-5.txt, 1
+./pagefault -f 6 given-tests/level5.txt,,given-tests/level5-exp-f-6.txt, 1
+./pagefault -f 7 given-tests/level5.txt,,given-tests/level5-exp-f-7.txt, 1
+./pagefault     given-tests/level6.txt,,given-tests/level6-exp-f-0.txt, 1
+./pagefault -f 1 given-tests/level6.txt,,given-tests/level6-exp-f-1.txt, 1
+./pagefault -f 2 given-tests/level6.txt,,given-tests/level6-exp-f-2.txt, 1
+./pagefault -f 3 given-tests/level6.txt,,given-tests/level6-exp-f-3.txt, 1
+./pagefault -f 4 given-tests/level6.txt,,given-tests/level6-exp-f-4.txt, 1
+./pagefault -f 5 given-tests/level6.txt,,given-tests/level6-exp-f-5.txt, 1
+./pagefault -f 6 given-tests/level6.txt,,given-tests/level6-exp-f-6.txt, 1
+./pagefault -f 7 given-tests/level6.txt,,given-tests/level6-exp-f-7.txt, 1
+./pagefault     given-tests/level7.txt,,given-tests/level7-exp-f-0.txt, 1
+./pagefault -f 1 given-tests/level7.txt,,given-tests/level7-exp-f-1.txt, 1
+./pagefault -f 2 given-tests/level7.txt,,given-tests/level7-exp-f-2.txt, 1
+./pagefault -f 3 given-tests/level7.txt,,given-tests/level7-exp-f-3.txt, 1
+./pagefault -f 4 given-tests/level7.txt,,given-tests/level7-exp-f-4.txt, 1
+./pagefault -f 5 given-tests/level7.txt,,given-tests/level7-exp-f-5.txt, 1
+./pagefault -f 6 given-tests/level7.txt,,given-tests/level7-exp-f-6.txt, 1
+./pagefault -f 7 given-tests/level7.txt,,given-tests/level7-exp-f-7.txt, 1
